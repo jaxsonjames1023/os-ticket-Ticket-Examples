@@ -46,6 +46,6 @@ Created a new ticket as Ken stating adobe has went down in the accounting depart
 <img src="https://i.imgur.com/BEVicaT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create a new ticket as Karen for the CFO's laptop turning on using the power button.  
+Create a new ticket as Karen for the CFO's laptop turning on using the power button.  Assigned the ticket to John, and he determined the power cord to computer was broken.  Next, gave CFO new power cord and resolved the issue.  Ticket was closed out.
 </p>
 <br />
