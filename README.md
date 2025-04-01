@@ -35,10 +35,10 @@ First, create a ticket as Karen that the online banking system is down.  Next, w
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pO9RsWz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created a new ticket as Ken stating adobe has went down in the accounting department.  Next, logged in as John to view ticket.  Then, found out it was only two people in accounting that were having issues with adobe.  Finally, assigned the ticket to John, and did a reboot on the two computers and problem was solved.
 </p>
 <br />
 
